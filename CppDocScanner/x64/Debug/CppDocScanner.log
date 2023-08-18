@@ -1,0 +1,15 @@
+﻿  main.cpp
+D:\C++\PROJECTS\cpp_DocumentScanner\CppDocScanner\main.cpp(50,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\C++\PROJECTS\cpp_DocumentScanner\CppDocScanner\main.cpp(55,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\C++\PROJECTS\cpp_DocumentScanner\CppDocScanner\main.cpp(103,49): warning C4244: аргумент: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+D:\C++\PROJECTS\cpp_DocumentScanner\CppDocScanner\main.cpp(103,46): warning C4244: аргумент: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+D:\C++\PROJECTS\cpp_DocumentScanner\CppDocScanner\main.cpp(114,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  CppDocScanner.vcxproj -> D:\C++\PROJECTS\cpp_DocumentScanner\CppDocScanner\x64\Debug\CppDocScanner.exe
